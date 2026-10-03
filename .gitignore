@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+coverage/
+.env*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+.pnpm-store/
+data/programs.json
+data/manifest.json
