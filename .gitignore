@@ -9,3 +9,4 @@ coverage/
 .pnpm-store/
 data/programs.json
 data/manifest.json
+next-env.d.ts
